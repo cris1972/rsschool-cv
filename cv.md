@@ -30,7 +30,7 @@ San Francisco, CA, Jun 2010 - Mar 2017
 -Deane’s List 2014
 -Soccer Team Captain
             
-//  Skills //
+//  Skills 
         
 • C#, HTML, DevOps. etc
             
